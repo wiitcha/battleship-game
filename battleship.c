@@ -734,7 +734,7 @@ void play() {
 
   int shootRight, totalHit;
   a:
-  totalHit = 19;
+  totalHit = 0;
   system("cls");
   char dizi[9][9];
   buildChart(dizi);
